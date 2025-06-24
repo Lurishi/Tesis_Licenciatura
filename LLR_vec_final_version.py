@@ -1,3 +1,7 @@
+'''
+Author: Lara Sofía Barreiro
+Date: 24/06/2025
+'''
 #%%
 import numpy as np
 import matplotlib.pyplot as plt
